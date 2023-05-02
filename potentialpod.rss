@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  
+  <channel>
+    
+    <title>Potential: A Physics Careers Podcast</title>
+    <link>http://dev.wripa.ac.uk/potential</link>
+    <language>en-us</language>
+    <copyright>&#169; WRIPA</copyright>
+    <itunes:author>WRIPA</itunes:author>
+    <description>
+      Potential is a careers podcast with a difference. In each episode, physics 
+      graduates share their stories about the good times, the hard times, the ups and the 
+      downs of starting a career. It’s a podcast about falling over, and then picking 
+      yourself back up again. It’s about finding your path, and then changing direction 
+      completely. If you're in the middle of your physics degree and wondering, 
+      "What do I do next?" ... we're here to help.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>WRIPA</itunes:name>
+      <itunes:email>info@wripa.ac.uk</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/potential-logo-2.png"
+    />
+    <itunes:category text="Science">
+      <itunes:category text="Physics"/>
+    </itunes:category>
+    <itunes:category text="Education">
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+   
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Potential Trailer</itunes:title>
+      <description>
+          Potential, a podcast from the White Rose Industrial Physics Academy, 
+          is all about navigating your way from physics degree to new career — whatever 
+          that looks like for you!
+      </description>
+      <enclosure 
+        length="22146265" 
+        type="audio/mpeg" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Imposter_s1e1.mp3"
+      />
+      <guid>potpods1t</guid>
+      <pubDate>Thu, 27 Apr 2023 01:15:00 GMT</pubDate>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>   
+   
+   
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>You're An Imposter</title>
+      <description>
+       How on earth did I get into this degree? Why did anyone hire me for this job? 
+       I'm a total fraud — and one day they're going to realise, and throw me out. 
+       Sound familiar? You're not alone: pretty much everyone experiences Impostor 
+       Syndrome at some point. We've assembled a bunch of physics graduates who've been 
+       there, faced the self-doubt, and come through the other side. They're here to 
+       share their wisdom and tips for talking back to the voices of doubt. If they can 
+       do it, so can you.   
+      </description>
+      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <enclosure 
+        length="22146265" 
+        type="audio/mp3" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Imposter_s1e1.mp3"
+      />
+      <guid>potpods1e1</guid>
+      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>You're An Imposter</title>
+      <description>
+       How on earth did I get into this degree? Why did anyone hire me for this job? 
+       I'm a total fraud — and one day they're going to realise, and throw me out. 
+       Sound familiar? You're not alone: pretty much everyone experiences Impostor 
+       Syndrome at some point. We've assembled a bunch of physics graduates who've been 
+       there, faced the self-doubt, and come through the other side. They're here to 
+       share their wisdom and tips for talking back to the voices of doubt. If they can 
+       do it, so can you.   
+      </description>
+      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <enclosure 
+        length="29049556" 
+        type="audio/mp3" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_WITW_s1e2.mp3"
+      />
+      <guid>potpods1e2</guid>
+      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
+      <itunes:duration>00:29:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Changing Direction</title>
+      <description>
+       How on earth did I get into this degree? Why did anyone hire me for this job? 
+       I'm a total fraud — and one day they're going to realise, and throw me out. 
+       Sound familiar? You're not alone: pretty much everyone experiences Impostor 
+       Syndrome at some point. We've assembled a bunch of physics graduates who've been 
+       there, faced the self-doubt, and come through the other side. They're here to 
+       share their wisdom and tips for talking back to the voices of doubt. If they can 
+       do it, so can you.   
+      </description>
+      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <enclosure 
+        length="22553253" 
+        type="audio/mp3" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Change_s1e3.mp3"
+      />
+      <guid>potpods1e3</guid>
+      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
+      <itunes:duration>00:23:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>You're An Imposter</title>
+      <description>
+       How on earth did I get into this degree? Why did anyone hire me for this job? 
+       I'm a total fraud — and one day they're going to realise, and throw me out. 
+       Sound familiar? You're not alone: pretty much everyone experiences Impostor 
+       Syndrome at some point. We've assembled a bunch of physics graduates who've been 
+       there, faced the self-doubt, and come through the other side. They're here to 
+       share their wisdom and tips for talking back to the voices of doubt. If they can 
+       do it, so can you.   
+      </description>
+      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <enclosure 
+        length="24459417" 
+        type="audio/mp3" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Advice_s1e5.mp3"
+      />
+      <guid>potpods1e4</guid>
+      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
+      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>The Benefit Of Hindsight</title>
+      <description>
+       In this final episode of this season of Potential we ask our physics graduates, 
+       if they could sit down with their younger selves back in first or second year of 
+       university, what advice would they give? What have they learned since they 
+       graduated that might help? We collected all that advice into five buckets of 
+       wisdom — and who knows, maybe some of it will resonate with you too.
+      </description>
+      <link>href="http://dev.wripa.ac.uk/potential"</link>
+      <enclosure 
+        length="24459417" 
+        type="audio/mp3" 
+        url="https://dev.wripa.ac.uk/wp-content/uploads/2023/04/Potential_Advice_s1e5.mp3"
+      />
+      <guid>potpods1e5</guid>
+      <pubDate>Thu, 27 Apr 2023 13:00:00 EST</pubDate>
+      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  
+  </channel>
+</rss>
